@@ -1,0 +1,12 @@
+,Request,TC1,TC2,TC3,TC4,TC5,TC6,TC7,TC8,TC9,TC10,TC11,TC12,TC13,TC14,TC15,TC16,TC17,TC18,TC19,TC20
+1,Cover Type,No cover,No cover,No cover,No cover,No cover,Roadside,Roadside,Roadside,Roadside,Roadside,At home,At home,At home,At home,At home,European,European,European,European,European
+2,Windscreen Repair selected,No select,No select,Select,Select,Select,No select,No select,Select,No select,Select,No select,No select,No select,Select,Select,No select,No select,No select,Select,Select
+3,Number Of Accidents Last Year,0,2,3,1,0,1,1,0,0,2,0,1,1,0,2,0,1,0,2,0
+4,Total Mileage,2000,1000,3000,2500,1500,2300,1500,1000,2000,1000,1000,2500,1000,1500,1000,1000,2500,1500,4000,3000
+5,Estimate Value,110,130,200,300,160,200,250,280,120,150,170,300,180,200,290,150,300,310,500,140
+6,Parking Location,Private,Public place,Garage,Public place,Private,Private,Public place,Private,Garage,Public place,Public place,Public place,Garage,Private,Garage,Public place,Public place,Private,Garage,Public place
+Total,,1.1,"31,3",2,63,"31,6",4,35,"35,6","2,4",33,,,,,,,,,,
+Discount,,30%,0,0,0,30%,0,0,30%,30%,0,30%,,0,30%,30%,30%,0,30%,,30%
+Expected Result,,0.77,"31,3",,63,"9,48",4,35,"10,68","0,72",33,,,,,,,,,,
+Actual Result ( website Guru99),,1,1,32,33,22,4,5,25,2,33,4,9,5,25,39,4,12,9,50,25
+Pass/FAIL,,,,,,,,,,,,,,,,,,,,,
